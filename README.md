@@ -65,4 +65,23 @@ The dashboard helps identify growth trends, high-performing services, profitable
 
 ---
 
-## 📂 Repository Structure
+## 🚀 How to Use
+1. Download the Excel file from this repository  
+2. Open it using Microsoft Excel (desktop version recommended)  
+3. Use slicers to interact with the dashboard  
+4. Review pivot tables to understand calculations and insights  
+
+---
+
+## 📄 License
+This project is licensed under the **MIT License**.
+
+---
+
+## 👩‍💻 Author
+**Vaishnavi Sawant**  
+Computer Engineering Graduate (2024)  
+Aspiring Data Analyst | Excel • Python • SQL • Power BI  
+
+
+🔗 LinkedIn: *https://www.linkedin.com/in/vaishnavi1901/*
