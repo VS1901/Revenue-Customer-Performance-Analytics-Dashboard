@@ -59,9 +59,7 @@ The dashboard helps identify growth trends, high-performing services, profitable
 ---
 
 ## 🖼 Dashboard Preview
-![Revenue & Customer Performance Dashboard](dashboard.png)
-
-> 📌 Replace `dashboard.png` with the actual screenshot file name uploaded to this repository.
+![Revenue & Customer Performance Dashboard](https://github.com/VS1901/Revenue-Customer-Performance-Analytics-Dashboard/blob/main/Screenshot.png)
 
 ---
 
